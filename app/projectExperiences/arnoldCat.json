@@ -1,0 +1,11 @@
+{   
+    "id": "arnoldCat",      
+    "name": "Chaos Theory: Arnold’s cat mapping",
+    "title": "Developer and Reporter", 
+    "date": "Feb. 2014",
+    "duty": [
+        "Implement Arnold’s cat mapping using MATLAB",
+        "Composed a pedagogical report about chaos theories",
+        "Composed assignment question for imaginary students"
+    ]
+}

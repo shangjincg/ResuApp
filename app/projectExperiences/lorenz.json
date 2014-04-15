@@ -1,0 +1,11 @@
+{      
+    "id": "lorenz",   
+    "name": "Numerical Analysis on Lorenz model",
+    "title": "Developer and Analyst", 
+    "date": "Feb. 2014",
+    "duty": [
+        "Computed numerical solutions to Lorenz model using MATLAB",
+        "Used MATLAB to do analysis about the solutions, e.g. error analysis",
+        "Made dynamic simulation to the results using MATLAB"
+    ]
+}

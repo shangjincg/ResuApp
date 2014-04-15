@@ -1,0 +1,23 @@
+
+
+
+
+<div class="row" style="padding-right: 50px">
+  <div class="col-md-3">
+	<ul class="nav nav-tabs nav-stacked">
+	  <li ng-repeat="project in projectList"><a href="#projectExperiences/{{project.id}}">{{project.name}}</a></li>
+	</ul>
+  </div>
+  <div class="col-md-9 jumbotron">
+	<h1>{{projects.name}}</h1>
+	<h2>{{projects.title}}</h2>
+	<h3>{{projects.date}}</h3>
+    <ul>
+    	<li ng-repeat="duty in projects.duty">
+    		<p>{{duty}}</p>
+    	</li>
+    </ul>	
+  </div>  
+</div>
+
+

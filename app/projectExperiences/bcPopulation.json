@@ -1,0 +1,11 @@
+{      
+    "id": "bcPopulation",   
+    "name": "Continuous model of Population",
+    "title": "Analyst and Final presenter", 
+    "date": "Feb. 2014",
+    "duty": [
+        "Modeled population of BC using PDE",
+        "Used analytic method to analyze this model",
+        "Made final poster and the final presentation"
+    ]
+}
